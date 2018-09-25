@@ -29,4 +29,3 @@ for row in y:
     for num in [row*col for col in x]:
         print("{0:>3}".format(num), end="")
     print(" ")
-    
