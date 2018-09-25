@@ -2,7 +2,7 @@
 multiplication-table.py
 Author: Joseph Goff
 Credit: Help from Morgan Gardner
-Assignment: Multiplication Table
+Assignment: 
 
 Write and submit a Python program that prints a multiplication table. The user 
 must be prompted to give the width and height of the table before it is printed.
@@ -29,3 +29,4 @@ for row in y:
     for num in [row*col for col in x]:
         print("{0:>3}".format(num), end="")
     print(" ")
+    
