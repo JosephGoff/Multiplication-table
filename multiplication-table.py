@@ -1,7 +1,7 @@
 """
 multiplication-table.py
 Author: Joseph Goff
-Credit: Help from Morgan Gardner
+Credit: Morgan Gardner
 Assignment: 
 
 Write and submit a Python program that prints a multiplication table. The user 
