@@ -22,7 +22,7 @@ Height of multiplication table: 8
   8  16  24  32  40  48  56  64  72  80
 """
 width=int(input("Multiplication table width: "))
-height=int(input("Multiplication table width: "))
+height=int(input("Multiplication table height: "))
 x=list(range(1,width+1))
 y=list(range(1,height+1))
 for row in y:
